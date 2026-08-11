@@ -1,0 +1,15 @@
+# C# / .NET Ignore
+bin/
+obj/
+*.user
+*.suo
+
+# Terraform Ignore
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# Logs & Environment
+*.log
+.env
